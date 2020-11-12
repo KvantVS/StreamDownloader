@@ -123,3 +123,24 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Kvant
+Streams/
+Chats/
+links/
+clips/
+NotForRepo/
+*.m3u8
+*.m3u
+*.ts
+inputs.txt
+videos.txt
+stream.txt
+streams.txt
+name.txt
+name_Bred.txt
+*.log
+*.xls*
+myAuthorize.cfg
+*.lnk
+*.chat
