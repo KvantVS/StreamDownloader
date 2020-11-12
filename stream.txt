@@ -1,0 +1,1 @@
+{'error': 'Gone', 'status': 410, 'message': 'The API version you are looking for is in another castle. See https://dev.twitch.tv/docs'}
